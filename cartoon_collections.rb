@@ -1,5 +1,6 @@
 def roll_call_dwarves(d)
-  d.each_with_index{|item,index|puts "#{index + 1}. " "+"#{item}"}
+  
+  d.each_with_index{|item,index| index + 1 = n "#{n}""+"#{item}"}
 end
 
 def summon_captain_planet# code an argument here
