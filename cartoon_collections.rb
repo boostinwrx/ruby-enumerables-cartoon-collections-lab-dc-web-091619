@@ -14,5 +14,5 @@ end
 def find_the_cheese(i)
   # the array below is here to help
   cheese_types = ["cheddar", "gouda", "camembert"]
-  return i.find{|i|i == cheese_types}
+  return i.find{|i|puts i == cheese_types}
 end
